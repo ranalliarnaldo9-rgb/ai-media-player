@@ -1,0 +1,8 @@
+{
+  "name": "Nova Player",
+  "description": "Powerful all-in-one local media player with broad video and audio codec compatibility, subtitles, hardware acceleration, gesture controls, and playback diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
